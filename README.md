@@ -1,2 +1,2 @@
-# svelte-ui-components
-Custom UI components built with Svelte
+# Custom Svelte 5 UI Components
+I have built these components for the front-end of my closed-source project. These have been stripped of some internal imports, and require dayjs (for time pickers), skeletonlabs (for loading circle), and tailwind CSS to work and look properly. Please note that some of them have a more complicated implementation than normal as my application requires a various set of use cases.
